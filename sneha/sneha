@@ -1,0 +1,7 @@
+Testing the pushing of local folder to remote using gitbash 
+[200~Open the file using the vi command 
+Press the i key to enter insert mode 
+Make changes to the file 
+Press the ESC key to exit insert mode 
+Type :w and press the enter key to save the changes 
+Type :q and press the enter key to close the file
